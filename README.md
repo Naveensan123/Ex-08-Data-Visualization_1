@@ -1,12 +1,12 @@
 # Ex-09-Data-Visualization-
 
-## AIM
+## AIM:
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-# Explanation
+# Explanation:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
+# ALGORITHM:
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -17,7 +17,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 
-# CODE
+# CODE:
 import pandas as pd
 
 import seaborn as sns
@@ -120,5 +120,15 @@ sns.scatterplot(x="total_bill", y="tip", data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 
 plt.show()
-# OUPUT
+# OUPUT:
+![2023-06-04 (1)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/be9cccab-04bf-4080-9b2b-2cb13827f7cb)
+![2023-06-04 (2)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/965ac6aa-5b41-42c4-8fc7-ca6d3c43f4e0)
+![2023-06-04 (3)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/f91bfc62-cf6e-4e53-b37a-4c7252a688e0)
+![2023-06-04 (4)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/e036689a-ad40-415c-8a3c-735c88aa3058)
+![2023-06-04 (5)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/0bba9b5b-04f9-4d6b-9236-cd9c6cea828f)
+![2023-06-04 (6)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/d46a0f3d-54bd-4a66-a095-f218cfd1d4c1)
+![2023-06-04 (7)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/d7fdd9b6-a251-4677-a0e8-c635c825527a)
+![2023-06-04 (8)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/8852c2fa-7480-4ade-a9b3-52892d5506ef)
+![2023-06-04 (9)](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/8e08108b-c819-4d2d-ac62-cc9925c0fd89)
+![2023-06-04](https://github.com/Naveensan123/Ex-08-Data-Visualization_1/assets/95761973/f71adda9-eb2d-4db9-9179-65d1e0693b4b)
 
